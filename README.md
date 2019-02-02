@@ -5,7 +5,7 @@
 
 Your task is to study the Mushrooms dataset and the associated description of the data (i.e. “data dictionary”). This famous dataset can be found in the UCI repository. Your deliverable is the R code to perform the transformation tasks.
 A typical problem (which is beyond the scope of this assignment!) is to answer the question, 
-“Which other attribute or attributes are the best predictors of whether a particular mushroom is poisonous or edible?”
+“Which other attribute or attributes are the best predictors of whether a particular mushroom is poisonous or edible?” Data can be found in GitHub repository here: https://github.com/KatherineEvers/Mushroom-Data/blob/master/agaricus-lepiota.data
 
 ## Data Tidying and Transformation
 
